@@ -29,12 +29,14 @@ module.exports = {
     dark: {
       backgroundColor: "#010409", // The background color.
       color1: "#2ea043", // The primary text color.
+      color2: "blue", // The secondary text color, for dates and tags on the home page.
       themeChangerBackgroundColor: "#f778ba", // The background color for the theme changer.
     },
     // Light mode.
     light: {
       backgroundColor: "#2ea043", // The background color.
       color1: "#553098", // The primary text color.
+      color2: "blue", // The secondary text color, for dates and tags on the home page.
       themeChangerBackgroundColor: "#693e00", // The background color for the theme changer.
     }
   }
