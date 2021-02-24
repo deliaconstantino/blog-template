@@ -27,15 +27,15 @@ module.exports = {
   css: {
     // Dark mode.
     dark: {
-      backgroundColor: "#010409", // The background color.
-      color1: "#2ea043", // The primary text color.
-      themeChangerBackgroundColor: "#f778ba", // The background color for the theme changer.
+      backgroundColor: "#4d607c", // The background color.
+      color1: "#e8eff7", // The primary text color.
+      themeChangerBackgroundColor: "#627693", // The background color for the theme changer.
     },
     // Light mode.
     light: {
-      backgroundColor: "#2ea043", // The background color.
-      color1: "#553098", // The primary text color.
-      themeChangerBackgroundColor: "#693e00", // The background color for the theme changer.
+      backgroundColor: "#e8eff7", // The background color.
+      color1: "#2f7fef", // The primary text color.
+      themeChangerBackgroundColor: "#768ba7", // The background color for the theme changer.
     }
   }
 };
